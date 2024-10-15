@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700&family=Karla:wght@200;400&display=swap');
+
+.ajustar-galeria{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between !important;
+}
+h1, h2, h3, h4, h5{
+    font-family: 'Exo 2', sans-serif;
+}
+p, a, li{
+    font-family: 'Karla', sans-serif;
+}
+
+.bg-chocolate{
+    background-color: #290D01;
+}
+.bg-berry{
+    background-color: #680E2A;
+   
+}
+.bg-lightbrown{
+    background-color: #C57E54;
+}
+.bg-lightbrown2{
+    background-color: #FCD0B5;
+}
+.text-chocolate{
+    color: #290D01;
+}
+.text-berry{
+    color: #680E2A;
+}
+.text-lightbrown{
+    color: #C57E54;
+}
+.text-lightbrown2{
+    color: #FCD0B5;
+}
+.btn-lightbrown{
+    background-color: #C57E54;
+    border: 1px solid #C57E54;
+}
+.navbar-brand {
+    font-size: 40px; 
+}
+
+.navbar-nav .nav-link {
+    font-size: 30px; 
+}
+footer p{
+    font-size: 17px; 
+}
+footer a {
+    font-size: 22px; 
+}
